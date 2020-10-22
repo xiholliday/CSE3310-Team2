@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d499e7f0-ef2a-4db6-b28e-f4b2ee24ae04" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sam" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jF08Nx03rgoiP3h43F2bYk6l7s" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d499e7f0-ef2a-4db6-b28e-f4b2ee24ae04" name="Default Changelist" comment="" />
+      <created>1603384371952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603384371952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="198" key="#Notifications" timestamp="1603384528236">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="507" y="198" key="#Notifications/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603384528236" />
+    <state x="600" y="134" key="CommitChangelistDialog2" timestamp="1603384501147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="600" y="134" key="CommitChangelistDialog2/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603384501147" />
+    <state x="732" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603384506574">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="732" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603384506574" />
+  </component>
+</project>

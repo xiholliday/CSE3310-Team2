@@ -10,6 +10,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Samson" />
         <option value="Sam" />
       </list>
     </option>
@@ -56,17 +57,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="507" y="198" key="#Notifications/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603384528236" />
-    <state x="600" y="134" width="596" height="812" key="CommitChangelistDialog2" timestamp="1603384562271">
+    <state x="600" y="134" width="596" height="812" key="CommitChangelistDialog2" timestamp="1603385067991">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="600" y="134" width="596" height="812" key="CommitChangelistDialog2/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603384562271" />
+    <state x="600" y="134" width="596" height="812" key="CommitChangelistDialog2/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603385067991" />
     <state x="611" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603384599491">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="611" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603384599491" />
-    <state x="732" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603384506574">
+    <state x="732" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603385053728">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="732" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603384506574" />
+    <state x="732" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603385053728" />
   </component>
 </project>

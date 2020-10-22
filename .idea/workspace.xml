@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d499e7f0-ef2a-4db6-b28e-f4b2ee24ae04" name="Default Changelist" comment="" />
+    <list default="true" id="d499e7f0-ef2a-4db6-b28e-f4b2ee24ae04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1jF08Nx03rgoiP3h43F2bYk6l7s" />
   <component name="ProjectViewState">
@@ -45,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603384562715</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1603385112751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603385112752</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -57,17 +67,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="507" y="198" key="#Notifications/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603384528236" />
-    <state x="600" y="134" width="596" height="812" key="CommitChangelistDialog2" timestamp="1603385067991">
+    <state x="600" y="134" width="596" height="812" key="CommitChangelistDialog2" timestamp="1603385112349">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="600" y="134" width="596" height="812" key="CommitChangelistDialog2/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603385067991" />
+    <state x="600" y="134" width="596" height="812" key="CommitChangelistDialog2/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603385112349" />
     <state x="611" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603384599491">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="611" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603384599491" />
-    <state x="732" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603385053728">
+    <state x="732" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603385497427">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="732" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603385053728" />
+    <state x="732" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.85.1920.1080@0.0.1920.1080" timestamp="1603385497427" />
   </component>
 </project>
